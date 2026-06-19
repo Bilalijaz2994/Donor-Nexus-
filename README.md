@@ -237,13 +237,11 @@ Developed as an Object-Oriented Programming (OOP) semester project for the Insti
 ---
 
 ## 👨‍💻 Team Members
-
-* Muhammad Abdullah Shahid
 * Muhammad Bilal Ijaz
+* Muhamamd Bilal Ijaz
 * Ayman
 
 ### Supervisor
-
 Ms. Sapna
 
 ---
