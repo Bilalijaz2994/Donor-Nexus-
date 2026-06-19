@@ -215,17 +215,6 @@ git clone https://github.com/yourusername/DonorNexus.git
 Developed as an Object-Oriented Programming (OOP) semester project for the Institute of Data Science, University of Engineering and Technology (UET), Lahore.
 
 ---
-
-## 👨‍💻 Team Members
-* Muhammad Bilal Ijaz
-* Muhamamd Bilal Ijaz
-* Ayman
-
-### Supervisor
-Ms. Sapna
-
----
-
 ## 📜 License
 
 This project is developed for educational and academic purposes.
