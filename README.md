@@ -175,35 +175,15 @@ UI forms interact with DAL and Model classes.
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Some application 
+some application screen shoot are uploaded as pngs above
+1 homep page png 
+2 login page png
+3 hospital search png
+4 record donation Png
+5 register donor png
+6 search donor png
 
-### Home Page
-
-![Home Page](Screenshots/homepage.png)
-
-### Donor Registration
-
-![Donor Registration](Screenshots/registerdonor.png)
-
-### Login Form
-
-![Login Form](Screenshots/login.png)
-
-### Search Donor
-
-![Search Donor](Screenshots/searchdonor.png)
-
-### Hospital Search
-
-![Hospital Search](Screenshots/hospitalsearch.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](Screenshots/admindashboard.png)
-
-### Donor Dashboard
-
-![Donor Dashboard](Screenshots/donordashboard.png)
 
 ---
 
