@@ -192,7 +192,7 @@ some application screen shoot are uploaded as pngs above
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/DonorNexus.git
+git clone https://github.com/Bilalijaz2994/DonorNexus.git
 ```
 
 ### Database Setup
